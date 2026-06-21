@@ -21,18 +21,7 @@ A clean, non-custodial web app to **burn tokens** on **Solana** and **Ethereum**
 5. Click **🔥 BURN** 
 
 > **Warning**: Burning is **permanent and irreversible**. Always test with small amounts first.
-
-## Deployment (Free)
-
-### GitHub Pages (Recommended)
-
-1. Create a new GitHub repository
-2. Upload these 3 files:
-   - `index.html`
-   - `manifest.json`
-   - `README.md`
-3. Go to **Settings → Pages → Source → Deploy from branch → main**
-4. Your app will be live at: `https://yourusername.github.io/repo-name`
+`
 
 ### Alternative: Vercel / Netlify
 Just drag & drop the folder or connect the GitHub repo.
